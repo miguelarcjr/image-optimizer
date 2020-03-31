@@ -1,2 +1,2 @@
 # image-optimizer
-An image optimizer app
+An image optimizer web app
